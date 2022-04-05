@@ -6,4 +6,6 @@ Simple project using JWT to secure resource access on the server.
 
 ## Technologies
 
-:coffee: **_React_**
+:coffee: **_Node_**
+
+:coffee: **_Express_**
